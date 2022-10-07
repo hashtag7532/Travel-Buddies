@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .navButton{
+    @apply border-blue-300 px-10
+  }
+}
